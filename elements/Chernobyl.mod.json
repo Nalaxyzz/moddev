@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_13",
+    "name": "Chernobyl",
+    "description": "by DJ Blyatman ",
+    "creativeTab": {
+      "value": "CUSTOM:Slavicoretab"
+    },
+    "music": {
+      "value": "CUSTOM:chernobyl"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

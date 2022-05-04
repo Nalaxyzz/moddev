@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "slavicore:blocks/gyginium",
+    "up": "slavicore:blocks/gyginium",
+    "north": "slavicore:blocks/gyginium",
+    "east": "slavicore:blocks/gyginium",
+    "south": "slavicore:blocks/gyginium",
+    "west": "slavicore:blocks/gyginium",
+    "particle": "slavicore:blocks/gyginium"
+  }
+}

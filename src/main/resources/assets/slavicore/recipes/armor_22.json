@@ -1,0 +1,36 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "1": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "2": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "3": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "5": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "6": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "8": {
+      "item": "slavicore:inanium_ingot_ingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:inaniumarmorlegs",
+    "count": 1
+  }
+}

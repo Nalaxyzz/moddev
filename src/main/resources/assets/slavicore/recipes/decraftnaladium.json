@@ -1,0 +1,16 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:naladium"
+    }
+  },
+  "result": {
+    "item": "slavicore:naladiumingot",
+    "count": 9
+  }
+}

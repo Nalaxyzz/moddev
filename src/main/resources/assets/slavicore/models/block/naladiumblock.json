@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "slavicore:blocks/naladium_block",
+    "up": "slavicore:blocks/naladium_block",
+    "north": "slavicore:blocks/naladium_block",
+    "east": "slavicore:blocks/naladium_block",
+    "south": "slavicore:blocks/naladium_block",
+    "west": "slavicore:blocks/naladium_block",
+    "particle": "slavicore:blocks/naladium_block"
+  }
+}

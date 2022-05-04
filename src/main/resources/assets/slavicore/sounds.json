@@ -1,0 +1,38 @@
+{
+  "vive_la_france": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "slavicore:alan-aztec-vive-la-france-_feat.-stellys_",
+        "stream": false
+      }
+    ]
+  },
+  "slav_thunder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "slavicore:alan-aztec-_-uamee-war-thunder-_slav-thunder_",
+        "stream": false
+      }
+    ]
+  },
+  "tsar_bomb": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "slavicore:dj-blyatman-tsar-bomb",
+        "stream": false
+      }
+    ]
+  },
+  "chernobyl": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "slavicore:dj-blyatman-chernobyl",
+        "stream": false
+      }
+    ]
+  }
+}

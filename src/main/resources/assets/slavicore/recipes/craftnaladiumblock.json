@@ -1,0 +1,42 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:naladiumingot"
+    },
+    "1": {
+      "item": "slavicore:naladiumingot"
+    },
+    "2": {
+      "item": "slavicore:naladiumingot"
+    },
+    "3": {
+      "item": "slavicore:naladiumingot"
+    },
+    "4": {
+      "item": "slavicore:naladiumingot"
+    },
+    "5": {
+      "item": "slavicore:naladiumingot"
+    },
+    "6": {
+      "item": "slavicore:naladiumingot"
+    },
+    "7": {
+      "item": "slavicore:naladiumingot"
+    },
+    "8": {
+      "item": "slavicore:naladiumingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:naladium",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "slav",
+    "name": "Slav Thunder",
+    "description": "by Alan Aztec",
+    "creativeTab": {
+      "value": "CUSTOM:Slavicoretab"
+    },
+    "music": {
+      "value": "CUSTOM:slav_thunder"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "1": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "2": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "3": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "5": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "6": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "8": {
+      "item": "slavicore:slavicniumingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:armorelegs",
+    "count": 1
+  }
+}

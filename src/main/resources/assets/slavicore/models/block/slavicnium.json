@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "slavicore:blocks/iron_ore",
+    "up": "slavicore:blocks/iron_ore",
+    "north": "slavicore:blocks/iron_ore",
+    "east": "slavicore:blocks/iron_ore",
+    "south": "slavicore:blocks/iron_ore",
+    "west": "slavicore:blocks/iron_ore",
+    "particle": "slavicore:blocks/iron_ore"
+  }
+}

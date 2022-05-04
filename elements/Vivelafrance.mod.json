@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vive_la_france",
+    "name": "Vive la france",
+    "description": "by Alan Aztec ",
+    "creativeTab": {
+      "value": "CUSTOM:Slavicoretab"
+    },
+    "music": {
+      "value": "CUSTOM:vive_la_france"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

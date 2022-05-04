@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Inaniumarmor.legs"
+    },
+    "name": "armor_22",
+    "namespace": "mod"
+  }
+}

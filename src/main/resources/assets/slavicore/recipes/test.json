@@ -1,0 +1,20 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:outil_inanium_pickaxe"
+    },
+    "1": {
+      "item": "slavicore:naladiumingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:hammernaladium",
+    "count": 1
+  }
+}

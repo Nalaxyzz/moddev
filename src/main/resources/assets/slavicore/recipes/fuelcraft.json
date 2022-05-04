@@ -1,0 +1,42 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "1": {
+      "item": "slavicore:naladiumingot"
+    },
+    "2": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "3": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "4": {
+      "item": "slavicore:dyginium"
+    },
+    "5": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "6": {
+      "item": "slavicore:inanium_ingot_ingot"
+    },
+    "7": {
+      "item": "slavicore:naladiumingot"
+    },
+    "8": {
+      "item": "slavicore:inanium_ingot_ingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:slavicurium",
+    "count": 4
+  }
+}

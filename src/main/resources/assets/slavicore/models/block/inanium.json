@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "slavicore:blocks/inanium",
+    "up": "slavicore:blocks/inanium",
+    "north": "slavicore:blocks/inanium",
+    "east": "slavicore:blocks/inanium",
+    "south": "slavicore:blocks/inanium",
+    "west": "slavicore:blocks/inanium",
+    "particle": "slavicore:blocks/inanium"
+  }
+}

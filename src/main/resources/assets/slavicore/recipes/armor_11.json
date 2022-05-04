@@ -1,0 +1,26 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "2": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "3": {
+      "item": "slavicore:slavicniumingot"
+    },
+    "5": {
+      "item": "slavicore:slavicniumingot"
+    }
+  },
+  "result": {
+    "item": "slavicore:armoreboots",
+    "count": 1
+  }
+}

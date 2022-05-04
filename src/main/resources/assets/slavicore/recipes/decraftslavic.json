@@ -1,0 +1,16 @@
+{
+  "group": "slavicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "slavicore:slavicblock"
+    }
+  },
+  "result": {
+    "item": "slavicore:slavicniumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "slavicore:blocks/block_slavic",
+    "up": "slavicore:blocks/block_slavic",
+    "north": "slavicore:blocks/block_slavic",
+    "east": "slavicore:blocks/block_slavic",
+    "south": "slavicore:blocks/block_slavic",
+    "west": "slavicore:blocks/block_slavic",
+    "particle": "slavicore:blocks/block_slavic"
+  }
+}

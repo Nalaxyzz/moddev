@@ -1,0 +1,763 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Vivelafrance",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vivelafrance",
+      "path": "~/disque"
+    },
+    {
+      "name": "SlavThunder",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slav_thunder",
+      "path": "~/disque"
+    },
+    {
+      "name": "Slavicnium",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicnium",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Slavicniumingot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicniumingot",
+      "path": "~/item"
+    },
+    {
+      "name": "Slavicurium",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicurium",
+      "path": "~/item"
+    },
+    {
+      "name": "Slavicuriumfuel",
+      "type": "fuel",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicuriumfuel",
+      "path": "~/fun"
+    },
+    {
+      "name": "Slavicoretab",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicoretab",
+      "path": "~/fun"
+    },
+    {
+      "name": "Slavicniumpickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicniumpickaxe",
+      "path": "~/item"
+    },
+    {
+      "name": "Sword1",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_1",
+      "path": "~/item"
+    },
+    {
+      "name": "Armore",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armore",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/item"
+    },
+    {
+      "name": "Shovel1",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shovel_1",
+      "path": "~/item"
+    },
+    {
+      "name": "Tsarbomb",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tsarbomb",
+      "path": "~/disque"
+    },
+    {
+      "name": "Chernobyl",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chernobyl",
+      "path": "~/disque"
+    },
+    {
+      "name": "Cuisson1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuisson_1",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor11",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_11",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor12",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_12",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor13",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_13",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor14",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_14",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil11",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_11",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil12",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_12",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil13",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_13",
+      "path": "~/fun"
+    },
+    {
+      "name": "Axe1",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "axe_1",
+      "path": "~/item"
+    },
+    {
+      "name": "Hoe1",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoe_1",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil14",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_14",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil15",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_15",
+      "path": "~/fun"
+    },
+    {
+      "name": "Inanium",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inanium",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Inaniumarmor",
+      "type": "armor",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inaniumarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/item"
+    },
+    {
+      "name": "Inanium_ingotIngot",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inanium_ingot_ingot",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil_inaniumPickaxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_inanium_pickaxe",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil_inaniumAxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_inanium_axe",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil_inaniumSword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_inanium_sword",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil_inaniumShovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_inanium_shovel",
+      "path": "~/item"
+    },
+    {
+      "name": "Outil_inaniumHoe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_inanium_hoe",
+      "path": "~/item"
+    },
+    {
+      "name": "Slavicblock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slavicblock",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Cuisson2",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuisson_2",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor21",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_21",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor22",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_22",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor23",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_23",
+      "path": "~/fun"
+    },
+    {
+      "name": "Armor24",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_24",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil21",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_21",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil22",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_22",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil23",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_23",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil24",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_24",
+      "path": "~/fun"
+    },
+    {
+      "name": "Outil25",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "outil_25",
+      "path": "~/fun"
+    },
+    {
+      "name": "Gyginium",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gyginium",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Dyginium",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dyginium",
+      "path": "~/item"
+    },
+    {
+      "name": "Fuelcraft",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fuelcraft",
+      "path": "~/fun"
+    },
+    {
+      "name": "Craftslavicblock",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftslavicblock",
+      "path": "~/fun"
+    },
+    {
+      "name": "Decraftslavic",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "decraftslavic",
+      "path": "~/fun"
+    },
+    {
+      "name": "Naladium",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naladium",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Naladiumingot",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naladiumingot",
+      "path": "~/item"
+    },
+    {
+      "name": "Naladiumblock",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naladiumblock",
+      "path": "~/minerais"
+    },
+    {
+      "name": "Decraftnaladium",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "decraftnaladium",
+      "path": "~/fun"
+    },
+    {
+      "name": "Craftnaladiumblock",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftnaladiumblock",
+      "path": "~/fun"
+    },
+    {
+      "name": "Hammernaladium",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammernaladium",
+      "path": "~/item"
+    },
+    {
+      "name": "HammernaladiumToolInHandTick",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammernaladium_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test",
+      "path": "~/fun"
+    },
+    {
+      "name": "Plaquenaladium",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plaquenaladium",
+      "path": "~/item"
+    },
+    {
+      "name": "Sticknoir",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sticknoir",
+      "path": "~/item"
+    },
+    {
+      "name": "Hammernaladiumsd",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammernaladiumsd",
+      "path": "~/fun"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "vive_la_france",
+      "files": [
+        "alan-aztec-vive-la-france-_feat.-stellys_"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "slav_thunder",
+      "files": [
+        "alan-aztec-_-uamee-war-thunder-_slav-thunder_"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "tsar_bomb",
+      "files": [
+        "dj-blyatman-tsar-bomb"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "chernobyl",
+      "files": [
+        "dj-blyatman-chernobyl"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.slav_thunder.name": "Slav Thunder",
+      "item.slavicurium.name": "Slavicurium fuel",
+      "item.slavicniumpickaxe.name": "Slavicnium pickaxe",
+      "item.axe_1.name": "Slavicnium axe ",
+      "item.inanium_ingot_ingot.name": "Inanium Ingot",
+      "tile.slavicblock.name": "Slavicblock",
+      "subtitles.tsar_bomb": "",
+      "item.hoe_1.name": "Slavicnium hoe",
+      "item.naladiumingot.name": "Naladium ingot",
+      "subtitles.vive_la_france": "",
+      "item.armorehelmet.name": "Slavicnium Helmet",
+      "item.chernobyl.name": "Chernobyl",
+      "tile.slavicnium.name": "Slavicnium ore",
+      "itemGroup.tabslavicoretab": "Slavicore by nalaxyzz",
+      "item.outil_inanium_shovel.name": "inanium Shovel",
+      "item.outil_inanium_pickaxe.name": "inanium Pickaxe",
+      "item.inaniumarmorboots.name": "Inanium Boots",
+      "item.vivelafrance.name": "Vive la france",
+      "item.armorelegs.name": "Slavicnium Leggings",
+      "item.inaniumarmorhelmet.name": "Inanium Helmet",
+      "item.plaquenaladium.name": "Naladium Plaque ",
+      "item.outil_inanium_sword.name": "inanium Sword",
+      "item.armorebody.name": "Slavicnium Body",
+      "item.sword_1.name": "Slavicnium sword ",
+      "item.outil_inanium_axe.name": "inanium Axe",
+      "item.shovel_1.name": "Slavicnium shovel",
+      "item.record.slav_thunder.desc": "by Alan Aztec",
+      "item.slavicniumingot.name": "Slavicnium ingot",
+      "subtitles.chernobyl": "",
+      "item.inaniumarmorbody.name": "Inanium Body",
+      "tile.naladiumblock.name": "Naladium Ore",
+      "tile.naladium.name": "Naladium Block",
+      "item.record.vivelafrance.desc": "by Alan Aztec ",
+      "item.armoreboots.name": "Slavicnium Boots",
+      "item.inaniumarmorlegs.name": "Inanium Leggings",
+      "item.tsarbomb.name": "Tsar bomb",
+      "item.record.tsarbomb.desc": "by DJ Blyatman ",
+      "item.dyginium.name": "Dyginium Gem",
+      "tile.gyginium.name": "Dyginium ore",
+      "subtitles.slav_thunder": "",
+      "item.outil_inanium_hoe.name": "inanium Hoe",
+      "tile.inanium.name": "Inanium ore",
+      "item.hammernaladium.name": "Naladium Hammer ",
+      "item.sticknoir.name": "Sticknoir",
+      "item.record.chernobyl.desc": "by DJ Blyatman "
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "disque",
+        "children": []
+      },
+      {
+        "name": "minerais",
+        "children": []
+      },
+      {
+        "name": "item",
+        "children": []
+      },
+      {
+        "name": "fun",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "slavicore",
+    "modName": "Slavicore",
+    "version": "1.0.0",
+    "author": "Enzo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.slavicorebynalaxyzz",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

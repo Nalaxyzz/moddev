@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Naladiumingot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Slavicniumingot"
+      },
+      {
+        "value": "CUSTOM:Dyginium"
+      },
+      {
+        "value": "CUSTOM:Slavicniumingot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      },
+      {
+        "value": "CUSTOM:Naladiumingot"
+      },
+      {
+        "value": "CUSTOM:Inanium_ingotIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Slavicurium"
+    },
+    "name": "fuelcraft",
+    "namespace": "mod"
+  }
+}

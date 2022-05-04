@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "bruh_this_music_is_lit",
+    "name": "Tsar bomb",
+    "description": "by DJ Blyatman ",
+    "creativeTab": {
+      "value": "CUSTOM:Slavicoretab"
+    },
+    "music": {
+      "value": "CUSTOM:tsar_bomb"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
